@@ -1,0 +1,23 @@
+h1 {
+    text-align:center;
+}
+body {
+    background-color: rgb(98, 98, 165);
+}
+#form-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#submit-btn{
+    color:green;
+}
+#remove-btn{
+    color:red;
+}
+#gifs{
+    margin:10px
+}
+img{
+    margin:5px;
+}
